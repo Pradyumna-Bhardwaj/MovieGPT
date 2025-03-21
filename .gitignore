@@ -1,8 +1,5 @@
 /node_modules
 .parcel-cache/
 /dist
-.firebase/
-.firebaserc
-src/utils/constants.js
 
 .env
